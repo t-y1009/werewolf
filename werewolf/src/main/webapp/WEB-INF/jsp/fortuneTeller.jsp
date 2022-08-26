@@ -14,8 +14,8 @@
 		<form action="/werewolf/FortuneTellerPhaseController"method="post">
 			<% for(Player player : playerList){ %>
 			<%= player.getName() %>:<input type="radio" name="roleNumber" value="<%= player.getRole()%>">
-			<%} %>
-			<input type="submit" value="更新">
+			<%} %><br>
+			<input type="submit" value="確認">
 		</form>
 	</div>
 </body>

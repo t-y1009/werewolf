@@ -17,10 +17,11 @@
 			あなたは人狼に殺されてしまった・・・
 			結末を見守ろう・・・
 		</h2>
-		<% for(Mutter mutter: mutterList){ %>
-			<p><%= mutter.getUserName() %> <%= mutter.getText() %></p>
-		<% } %>
-		<p>話し合いの時間終了まで残り<span id="countdown"></span>秒</p>
+		<p>話し合いの時間終了まで残り<span id="countdown"style="font-size:25px;font-weight:bold;color:red;"></span>秒</p>
+			<% for(Mutter mutter: mutterList){ %>
+			<p>プレイヤー名：<span style="font-weight:bold;"><%= mutter.getUserName() %></span><br>
+			<%= mutter.getText() %></p>
+			<% } %>
 		<a href="/werewolf/Discussion?player=deadPlayer">更新</a>
 	</div>
 </body>

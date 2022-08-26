@@ -14,13 +14,13 @@
 <body>
 	<div style="text-align: center">
 		<form action="/werewolf/VotePhaseController" method="post">
-			<p>誰が人狼だと思いますか？</p><br>
+			<p>誰が人狼だと思いますか？</p>
 			<p>投票してください</p>
 			<% for(Player player : playerList){ %>
 				<% if(player.getAccount_id() != loginUser.getId()){ %>
 					<%= player.getName() %>:<input type="radio" name="id" value="<%= player.getId()%>">
 				<% } %>
-			<% } %>
+			<% } %><br>
 			<input type="submit" value="投票する">
 		</form>
 	</div>

@@ -15,8 +15,8 @@
 			<p>誰を守りますか？</p>
 			<% for(Player player : playerList){ %>
 			<%= player.getName() %>:<input type="radio" name="account_id" value="<%= player.getAccount_id()%>">
-			<% } %>
-			<input type="submit" value="更新">
+			<% } %><br>
+			<input type="submit" value="守る">
 		</form>
 	</div>
 </body>

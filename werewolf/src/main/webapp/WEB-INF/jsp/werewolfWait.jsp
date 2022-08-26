@@ -11,7 +11,7 @@
 <title>人狼ゲーム</title>
 </head>
 <body>
-	<div style="text-align: center">
+	<div style="text-align: center"style="font-size:25px;font-weight:bold;color:red;">
 		<p><span id="countdown"></span>秒毎に自動でページを更新します</p>
 		<p>騎士が行動するまでお待ちください</p>
 		<a href="/werewolf/RoleController?roleName=werewolf">更新</a>

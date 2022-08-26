@@ -13,7 +13,7 @@
 </head>
 <body>
 	<div style="text-align: center">
-		<p><span id="countdown"></span>秒毎に自動でページを更新します</p>
+		<p><span id="countdown" style="font-size:25px;font-weight:bold;color:red;"></span>秒毎に自動でページを更新します</p>
 		<p style="color:red;font-weight:bold;">あたなの役職は占い師です</p>
 		<p>他の方が準備できるまでお待ちください</p>
 		<p>現在<%= playerList.size() %>人</p>

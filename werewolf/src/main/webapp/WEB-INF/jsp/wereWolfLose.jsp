@@ -10,19 +10,19 @@
 <body>
 	<div style="text-align: center">
 		<p>
-			<img src="banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
-			<img src="banzai_kids_girl2-removebg-preview.png" alt="市民" height="70">
-			<img src="banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
-			<img src="banzai_kids_girl2-removebg-preview.png" alt="市民" height="70">
-			<img src="banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
+			<img src="/werewolf/img/banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
+			<img src="/werewolf/img/banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
+			<img src="/werewolf/img/banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
+			<img src="/werewolf/img/banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
+			<img src="/werewolf/img/banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
 		</p>
 		<h1>市民の勝利！！</h1>
 		<p>
-			<img src="banzai_kids_girl2-removebg-preview.png" alt="市民" height="70">
-			<img src="banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
-			<img src="banzai_kids_girl2-removebg-preview.png" alt="市民" height="70">
-			<img src="banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
-			<img src="banzai_kids_girl2-removebg-preview.png" alt="市民" height="70">
+			<img src="/werewolf/img/banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
+			<img src="/werewolf/img/banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
+			<img src="/werewolf/img/banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
+			<img src="/werewolf/img/banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
+			<img src="/werewolf/img/banzai_kids_boy2-removebg-preview.png" alt="市民" height="70">
 			</p>
 		<a href="/werewolf/">トップへ</a>
 	</div>

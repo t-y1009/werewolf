@@ -10,7 +10,7 @@
 <head>
 <link rel="stylesheet" href="/werewolf/css/werewolf.css">
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>人狼ゲーム</title>
 </head>
 <body>
 	<div style="text-align: center">
@@ -18,8 +18,8 @@
 			<p>誰を攻撃しますか？(自分以外選んでください)</p>
 			<% for(Player player : playerList){ %>
 			<%= player.getName() %>:<input type="radio" name="account_id" value="<%= player.getAccount_id()%>">
-			<% } %>
-			<input type="submit" value="更新">
+			<% } %><br>
+			<input type="submit" value="襲う">
 		</form>
 	</div>
 </body>

@@ -11,7 +11,7 @@
 </head>
 <body>
 	<div style="text-align: center">
-		<p><span id="countdown"></span> 秒後に自動的にページを更新します。</p>
+		<p><span id="countdown" style="font-size:20px; color:red;font-weight:bold;" ></span> 秒後に自動的にページを更新します。</p>
 		<h1>現在結果を集計中です</h1>
 		<a href="/werewolf/VotePhaseController">更新</a>
 	</div>

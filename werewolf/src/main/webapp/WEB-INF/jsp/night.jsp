@@ -11,7 +11,7 @@
 </head>
 <body>
 	<div style="text-align: center">
-		<p><span id="countdown"></span> 秒後に自動的にページを更新します。</p>
+		<p><span id="countdown"style="font-size:25px;font-weight:bold;color:red;"></span> 秒後に自動的にページを更新します。</p>
 		<p>現在人狼及び騎士が行動中です</p>
 		<p>行動完了までお待ちください</p>
 		<a href="/werewolf/WerewolfController">更新</a>

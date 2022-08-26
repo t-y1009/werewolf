@@ -11,7 +11,7 @@
 </head>
 <body>
 	<div style="text-align: center">
-		<p><%= fortuneResultPlayer.getName() %>は<%= fortuneResultPlayer.getRoleName() %>でした。</p>
+		<p><%= fortuneResultPlayer.getName() %>は<span style="font-size:20px; color:red;font-weight:bold;"><%= fortuneResultPlayer.getRoleName() %></span>でした。</p>
 		<a href="/werewolf/Discussion">確認</a>
 	</div>
 </body>
